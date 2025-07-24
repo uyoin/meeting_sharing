@@ -16,9 +16,9 @@
 | Date       | Time    | Presenters (2 per session) |
 |------------|---------|---------------------------|
 | 2025‑08‑19 | 1:15 PM | Weitao Hou, Wenbo Lv |
-| 2025‑09‑16 | 1:15 PM | Xinyue Yang, Pengcheng Zhang |
-| 2025‑10‑14 | 1:15 PM | Zhuoyao Xiao, Jiajie Shang |
-| 2025‑11‑11 | 1:15 PM | Lai Chen, Xiaoyan Cao |
+| 2025‑09‑16 | 1:15 PM | Lai Chen, Xiaoyan Cao  |
+| 2025‑10‑14 | 1:15 PM | Xinyue Yang, Pengcheng Zhang |
+| 2025‑11‑11 | 1:15 PM | Zhuoyao Xiao, Jiajie Shang |
 | 2025‑12‑09 | 1:15 PM | Yilong Wu, Yuyu Yang |
 
 ---
