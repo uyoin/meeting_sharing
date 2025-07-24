@@ -13,7 +13,7 @@
 
 ## ✅ **Upcoming Schedule**
 
-| Date       | Time    | Attendees (2 per session) |
+| Date       | Time    | Presenters (2 per session) |
 |------------|---------|---------------------------|
 | 2025‑08‑19 | 1:15 PM | Weitao Hou, Wenbo Lv |
 | 2025‑09‑16 | 1:15 PM | Xinyue Yang, Pengcheng Zhang |
